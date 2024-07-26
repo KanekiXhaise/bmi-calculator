@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BmiCalculator.Api", "BmiCalculator.Api.csproj", "{2ED07D95-0140-45A7-AFAA-114FB8281C8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BmiCalculatorApi.Tests", "..\BmiCalculatorApi.Tests\BmiCalculatorApi.Tests.csproj", "{ACA069F2-06D9-4EE3-9CEB-365CD6035CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ED07D95-0140-45A7-AFAA-114FB8281C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED07D95-0140-45A7-AFAA-114FB8281C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED07D95-0140-45A7-AFAA-114FB8281C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED07D95-0140-45A7-AFAA-114FB8281C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA069F2-06D9-4EE3-9CEB-365CD6035CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA069F2-06D9-4EE3-9CEB-365CD6035CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA069F2-06D9-4EE3-9CEB-365CD6035CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA069F2-06D9-4EE3-9CEB-365CD6035CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EF8B13-44B2-40CE-8A49-7015EA26A4CD}
+	EndGlobalSection
+EndGlobal

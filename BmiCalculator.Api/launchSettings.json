@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger"
+    },
+    "BmiCalculator.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:5001",
+      "launchUrl": "swagger"
+    }
+  }
+}
